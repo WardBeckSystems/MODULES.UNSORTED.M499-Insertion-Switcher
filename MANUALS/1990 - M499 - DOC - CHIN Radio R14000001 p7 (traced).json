@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.6, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 971, "straight": {"n": 7948, "mm": 10388.9}, "curved": {"n": 2418, "mm": 3575.7}},
+  "text": {"rings": 1231, "straight": {"n": 8320, "mm": 9283.4}, "curved": {"n": 2722, "mm": 3997.9}},
+  "tb": {"rings": 2, "straight": {"n": 25, "mm": 34.2}, "curved": {"n": 10, "mm": 17.7}}
+ },
+ "circles": [{"c": [102.4, 204.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [206.2, 222.4, 208.6, 226.7], "w": 2.4, "h": 4.3, "from": "ring"}],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [30.4, 406.1, 74.5, 411.6], "text": "WARD-BECK"},
+   {"mm": [84.6, 406.1, 142.1, 411.6], "text": "SYSTEMS LTD."},
+   {"mm": [121.6, 337.7, 163.4, 343.2], "text": "RI4OO/R22O"},
+   {"mm": [46.0, 304.6, 109.7, 310.4], "text": "connections to any"},
+   {"mm": [111.2, 304.4, 165.4, 310.4], "text": "metal cabinetry."},
+   {"mm": [49.4, 228.4, 62.2, 233.9], "text": "ine."},
+   {"mm": [45.8, 188.3, 140.6, 194.4], "text": "permitting the connect'ion"},
+   {"mm": [261.9, 127.4, 273.8, 132.9], "text": "one"},
+   {"mm": [45.3, 121.8, 64.3, 127.5], "text": "end of"},
+   {"mm": [68.4, 121.8, 129.5, 127.5], "text": "the cable shield is"},
+   {"mm": [133.9, 122.4, 169.3, 127.9], "text": "qrounded."},
+   {"mm": [44.9, 105.1, 90.0, 110.9], "text": "Audio 0utputs"}
+  ]
+ },
+ "title_block": {"mm": [23.8, 397.6, 125.6, 420.4], "from": "title-block words (training set)", "text": ["WARD-BECK", "SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 9–432 mm up",
+  "- **Outlines:** line 971 rings, 7,948 straight (10,389 mm) / 2,418 curved (3,576 mm); text 1,231 rings, 8,320 straight (9,283 mm) / 2,722 curved (3,998 mm); tb 2 rings, 25 straight (34.2 mm) / 10 curved (17.7 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (102.4, 204.6)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 23 in 12 lines: WARD-BECK · SYSTEMS LTD. · RI4OO/R22O · connections to any · metal cabinetry. · ine. · permitting the connect'ion · one · end of · the cable shield is · qrounded. · Audio 0utputs",
+  "- **Title block:** (24, 398)–(126, 420) mm: WARD-BECK · SYSTEMS LTD."
+ ]
+}

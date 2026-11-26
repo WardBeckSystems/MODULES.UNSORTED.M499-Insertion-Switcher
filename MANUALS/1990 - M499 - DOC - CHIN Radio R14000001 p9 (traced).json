@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.6, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 909, "straight": {"n": 7818, "mm": 9833.1}, "curved": {"n": 2204, "mm": 3334.3}},
+  "text": {"rings": 1330, "straight": {"n": 9300, "mm": 10423.0}, "curved": {"n": 2994, "mm": 4466.2}},
+  "tb": {"rings": 2, "straight": {"n": 29, "mm": 36.4}, "curved": {"n": 10, "mm": 15.5}}
+ },
+ "circles": [
+  {"c": [110.6, 91.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [153.9, 160.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [65.3, 161.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [31.7, 405.9, 75.3, 411.4], "text": "WARD.BECK"},
+   {"mm": [85.7, 405.9, 142.9, 411.6], "text": "SYSTEMS LTD."},
+   {"mm": [147.2, 353.2, 185.9, 358.9], "text": "NSTALLAT ON"},
+   {"mm": [121.1, 340.0, 216.3, 346.5], "text": "RI4OO /R22OO AUDIO CONSOLES"},
+   {"mm": [61.7, 274.4, 91.1, 279.9], "text": "CHANNE"},
+   {"mm": [61.7, 260.8, 192.6, 267.0], "text": "of the input selector being depressed:"},
+   {"mm": [51.4, 214.8, 67.4, 220.3], "text": "amp."},
+   {"mm": [61.1, 177.7, 159.8, 183.4], "text": "External CHANNE 0N CHANNE"},
+   {"mm": [47.7, 127.6, 154.6, 133.8], "text": "The remote cuE control on TB5,"},
+   {"mm": [159.3, 128.0, 171.2, 133.5], "text": "p'in"},
+   {"mm": [182.2, 126.7, 275.3, 132.9], "text": "operates similarly to an"}
+  ]
+ },
+ "title_block": {"mm": [25.0, 397.3, 126.5, 420.3], "from": "title-block words (training set)", "text": ["WARD.BECK", "SYSTEMS LTD."]},
+ "dots": [{"c": [69.2, 315.6], "r": 0.8, "lines": 0}, {"c": [90.7, 86.1], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 11–432 mm up",
+  "- **Outlines:** line 909 rings, 7,818 straight (9,833 mm) / 2,204 curved (3,334 mm); text 1,330 rings, 9,300 straight (10,423 mm) / 2,994 curved (4,466 mm); tb 2 rings, 29 straight (36.4 mm) / 10 curved (15.5 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.6 @ (110.6, 91.1), r 1.6 @ (153.9, 160.5), r 1.6 @ (65.3, 161.1)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 32 in 11 lines: WARD.BECK · SYSTEMS LTD. · NSTALLAT ON · RI4OO /R22OO AUDIO CONSOLES · CHANNE · of the input selector being depressed: · amp. · External CHANNE 0N CHANNE · The remote cuE control on TB5, · p'in · operates similarly to an",
+  "- **Title block:** (25, 397)–(126, 420) mm: WARD.BECK · SYSTEMS LTD."
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 334.0, 431.3],
+ "outlines": {
+  "line": {"rings": 434, "straight": {"n": 4140, "mm": 6230.2}, "curved": {"n": 965, "mm": 1504.5}},
+  "text": {"rings": 745, "straight": {"n": 5716, "mm": 6327.6}, "curved": {"n": 1714, "mm": 2595.3}},
+  "tb": {"rings": 2, "straight": {"n": 26, "mm": 33.1}, "curved": {"n": 12, "mm": 19.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [24.4, 409.1, 68.9, 414.6], "text": "\\^/AFtr-BECK"},
+   {"mm": [78.6, 409.6, 135.6, 415.1], "text": "SYSTEMS LTD."},
+   {"mm": [39.3, 359.0, 87.2, 364.6], "text": "PERFORMAN SP"},
+   {"mm": [65.0, 325.1, 74.7, 331.1], "text": "mp"},
+   {"mm": [92.6, 325.1, 100.2, 331.1], "text": "ce"},
+   {"mm": [39.7, 318.5, 100.6, 324.4], "text": "Input Impedance:"},
+   {"mm": [170.8, 318.7, 178.1, 324.2], "text": "10"},
+   {"mm": [180.5, 318.7, 222.2, 324.4], "text": "times source"},
+   {"mm": [223.2, 318.9, 229.3, 324.4], "text": "or"},
+   {"mm": [233.0, 319.7, 261.7, 325.3], "text": "qreaf,er."},
+   {"mm": [39.5, 295.1, 76.2, 301.1], "text": "HIGH LEVEL"},
+   {"mm": [75.1, 295.4, 117.2, 301.3], "text": "MONOAURAL"},
+   {"mm": [108.6, 295.4, 134.5, 301.3], "text": "INPUTS:"},
+   {"mm": [39.9, 275.1, 100.8, 281.1], "text": "Input Impedance:"},
+   {"mm": [40.2, 270.5, 55.5, 274.1], "text": "Tnnrrt"},
+   {"mm": [118.5, 254.1, 141.8, 258.2], "text": "TtUDllTC."},
+   {"mm": [68.4, 231.4, 99.1, 237.4], "text": "pe ci ce"},
+   {"mm": [170.8, 231.7, 201.9, 237.7], "text": "20K ohms"},
+   {"mm": [43.4, 226.9, 54.8, 230.5], "text": "nnrrf"},
+   {"mm": [55.5, 208.1, 65.2, 214.1], "text": "PU"},
+   {"mm": [180.9, 184.6, 198.2, 190.6], "text": "dBm."},
+   {"mm": [39.9, 161.3, 117.4, 167.3], "text": "FREQUEN SPONSE:"},
+   {"mm": [39.5, 147.7, 71.0, 153.7], "text": "Any Input"},
+   {"mm": [72.8, 147.7, 121.6, 153.9], "text": "to any Outout:"},
+   {"mm": [177.3, 120.5, 245.0, 127.5], "text": "ta aam) Z0 to 2o"},
+   {"mm": [217.0, 120.5, 225.6, 126.5], "text": "Hz"},
+   {"mm": [247.2, 120.7, 259.7, 126.7], "text": "kHz"},
+   {"mm": [171.4, 93.9, 213.7, 100.1], "text": "input noise."},
+   {"mm": [171.2, 60.2, 189.8, 66.2], "text": "20 Hz"},
+   {"mm": [191.1, 60.2, 261.7, 66.4], "text": "to 20 kHz bandwidth."}
+  ]
+ },
+ "title_block": {"mm": [17.7, 400.5, 118.6, 423.7], "from": "title-block words (training set)", "text": ["\\^/AFtr-BECK", "SYSTEMS LTD."]},
+ "dots": [{"c": [214.7, 129.8], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–431 mm up",
+  "- **Outlines:** line 434 rings, 4,140 straight (6,230 mm) / 965 curved (1,504 mm); text 745 rings, 5,716 straight (6,328 mm) / 1,714 curved (2,595 mm); tb 2 rings, 26 straight (33.1 mm) / 12 curved (19.7 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 52 in 30 lines: \\^/AFtr-BECK · SYSTEMS LTD. · PERFORMAN SP · mp · ce · Input Impedance: · 10 · times source · or · qreaf,er. · HIGH LEVEL · MONOAURAL",
+  "- **Title block:** (18, 400)–(119, 424) mm: \\^/AFtr-BECK · SYSTEMS LTD."
+ ]
+}

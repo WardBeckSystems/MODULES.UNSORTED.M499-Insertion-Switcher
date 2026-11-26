@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 378, "straight": {"n": 4042, "mm": 6471.2}, "curved": {"n": 923, "mm": 1442.7}},
+  "text": {"rings": 795, "straight": {"n": 6005, "mm": 6623.3}, "curved": {"n": 1779, "mm": 2727.0}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [164.3, 277.6, 166.8, 282.2], "w": 2.5, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [28.5, 409.6, 70.6, 415.1], "text": "WAFtr.EECK"},
+   {"mm": [82.3, 409.8, 139.3, 415.3], "text": "SYSTEMS LTE."},
+   {"mm": [142.9, 356.5, 206.6, 362.4], "text": "TEST CONDITIONS"},
+   {"mm": [46.4, 326.7, 88.7, 332.7], "text": "FRE'3UEIVCY"},
+   {"mm": [79.5, 326.7, 114.4, 332.7], "text": "RESP0NSE"},
+   {"mm": [108.4, 326.7, 159.3, 332.7], "text": "MEASUREMENT"},
+   {"mm": [46.9, 309.8, 70.2, 315.8], "text": "INPUT"},
+   {"mm": [66.3, 310.0, 86.1, 316.0], "text": "level:"},
+   {"mm": [46.9, 283.0, 116.4, 289.0], "text": "INPUT SENSITiVITY:"},
+   {"mm": [66.1, 229.5, 111.2, 235.5], "text": "OUTPUT LEVEL:"},
+   {"mm": [157.8, 229.5, 219.8, 235.5], "text": "dBm 600 ohm VU)"},
+   {"mm": [50.1, 212.9, 90.0, 218.9], "text": "ISTORTION"},
+   {"mm": [82.0, 212.9, 138.2, 218.9], "text": "MEASUREMENT"},
+   {"mm": [46.6, 199.3, 92.2, 205.5], "text": "INPUT LEVEL:"},
+   {"mm": [154.6, 192.4, 195.0, 198.4], "text": "dBm 600 ohm"},
+   {"mm": [194.1, 192.2, 221.9, 198.6], "text": "for Line"},
+   {"mm": [223.9, 192.4, 259.5, 198.6], "text": "and Ster eo"},
+   {"mm": [226.0, 172.3, 255.4, 178.3], "text": "esponse"},
+   {"mm": [62.2, 158.9, 95.0, 165.1], "text": "PU LE VEL:"},
+   {"mm": [152.6, 158.9, 204.0, 165.5], "text": "18 dBm 600 ohm."},
+   {"mm": [59.6, 139.0, 76.0, 145.0], "text": "SE ME"},
+   {"mm": [102.8, 139.0, 113.3, 145.0], "text": "ME"},
+   {"mm": [69.3, 115.5, 87.4, 121.5], "text": "nput."},
+   {"mm": [46.0, 81.8, 52.9, 87.8], "text": "SI"},
+   {"mm": [79.9, 81.8, 90.0, 87.8], "text": "OS"},
+   {"mm": [154.6, 67.8, 169.9, 73.8], "text": "Set_"},
+   {"mm": [168.0, 68.0, 185.2, 74.0], "text": "up as"},
+   {"mm": [187.4, 68.0, 219.1, 74.9], "text": "per noise"},
+   {"mm": [220.0, 68.2, 266.6, 74.2], "text": "measur ement"},
+   {"mm": [259.9, 68.0, 280.5, 74.0], "text": "above"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–432 mm up",
+  "- **Outlines:** line 378 rings, 4,042 straight (6,471 mm) / 923 curved (1,443 mm); text 795 rings, 6,005 straight (6,623 mm) / 1,779 curved (2,727 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 52 in 30 lines: WAFtr.EECK · SYSTEMS LTE. · TEST CONDITIONS · FRE'3UEIVCY · RESP0NSE · MEASUREMENT · INPUT · level: · INPUT SENSITiVITY: · OUTPUT LEVEL: · dBm 600 ohm VU) · ISTORTION"
+ ]
+}

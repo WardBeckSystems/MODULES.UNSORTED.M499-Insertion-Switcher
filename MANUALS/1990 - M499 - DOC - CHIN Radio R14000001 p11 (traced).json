@@ -1,0 +1,89 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 3.0, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 298, "straight": {"n": 4524, "mm": 8176.4}, "curved": {"n": 783, "mm": 1233.3}},
+  "text": {"rings": 510, "straight": {"n": 3988, "mm": 4719.8}, "curved": {"n": 1108, "mm": 1702.7}},
+  "tb": {"rings": 4, "straight": {"n": 31, "mm": 39.9}, "curved": {"n": 8, "mm": 13.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [43.8, 272.2, 149.8, 333.8],
+   "w": 106.0,
+   "h": 61.6,
+   "from": "ring",
+   "words": ["(cH", "M4e0A/B", "INPUT", "ROOM", "MIC", "ON", "CONTROL"]
+  },
+  {"mm": [189.8, 272.7, 281.1, 333.3], "w": 91.3, "h": 60.7, "from": "ring", "words": ["495", "CONTROL", "R00M", "ONr", "TOR"]},
+  {"mm": [52.9, 224.1, 55.3, 228.4], "w": 2.4, "h": 4.3, "from": "ring"},
+  {"mm": [44.3, 160.4, 104.7, 208.2], "w": 60.4, "h": 47.8, "from": "ring", "words": ["MUTE", "M453A", "tl"]},
+  {"mm": [202.7, 165.0, 233.6, 207.5], "w": 30.9, "h": 42.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [26.1, 410.0, 71.2, 415.5], "text": "\\^/ARD-BECK"},
+   {"mm": [81.6, 410.0, 139.5, 415.7], "text": "SYSTEMS LTD."},
+   {"mm": [141.0, 362.1, 179.4, 367.8], "text": "IISTAL LAT ON"},
+   {"mm": [75.3, 322.3, 108.4, 328.8], "text": "M4e0A/B"},
+   {"mm": [102.6, 323.0, 114.9, 329.5], "text": "(cH"},
+   {"mm": [234.0, 322.8, 246.3, 328.8], "text": "495"},
+   {"mm": [49.0, 308.5, 83.8, 315.0], "text": "CONTROL"},
+   {"mm": [75.6, 309.0, 115.7, 315.4], "text": "ROOM MIC ON"},
+   {"mm": [128.7, 309.2, 150.1, 315.6], "text": "INPUT"},
+   {"mm": [201.0, 309.4, 229.9, 315.4], "text": "ONr TOR"},
+   {"mm": [234.9, 310.2, 270.7, 316.2], "text": "CONTROL"},
+   {"mm": [261.2, 309.6, 280.7, 315.6], "text": "R00M"},
+   {"mm": [193.4, 249.8, 204.5, 255.3], "text": "TB6"},
+   {"mm": [213.3, 249.4, 226.9, 255.4], "text": "110"},
+   {"mm": [248.9, 228.4, 259.7, 234.4], "text": "i51"},
+   {"mm": [215.7, 224.1, 228.4, 230.1], "text": "134"},
+   {"mm": [258.4, 218.3, 284.6, 225.1], "text": "+25V CT"},
+   {"mm": [258.6, 211.6, 266.4, 217.6], "text": "40"},
+   {"mm": [268.4, 211.8, 294.3, 217.8], "text": "mA max."},
+   {"mm": [69.5, 197.5, 88.1, 203.5], "text": "MUTE"},
+   {"mm": [235.5, 191.3, 250.4, 197.3], "text": "SOLI"},
+   {"mm": [255.6, 191.5, 298.6, 197.5], "text": "STATE RELAY"},
+   {"mm": [265.6, 184.6, 288.4, 190.6], "text": "D1210"},
+   {"mm": [252.4, 177.9, 295.1, 183.9], "text": "EQUIVALEN"},
+   {"mm": [67.8, 177.5, 88.5, 183.5], "text": "M453A"},
+   {"mm": [71.2, 167.8, 73.2, 169.7], "text": "tl"},
+   {"mm": [272.9, 131.1, 297.3, 137.0], "text": "120VAC"},
+   {"mm": [46.6, 123.5, 78.4, 129.5], "text": "DENOTES"},
+   {"mm": [73.0, 123.7, 125.9, 129.7], "text": "SPARE TERMINAL"},
+   {"mm": [68.7, 62.8, 111.6, 69.3], "text": "ed th co tro"},
+   {"mm": [116.8, 63.0, 134.3, 69.0], "text": "cu rre"},
+   {"mm": [143.4, 63.3, 197.8, 69.3], "text": "does not exceed"},
+   {"mm": [120.3, 49.7, 125.7, 55.7], "text": "ci"},
+   {"mm": [126.9, 49.9, 137.3, 55.9], "text": "rcu"}
+  ]
+ },
+ "title_block": {"mm": [19.5, 401.4, 121.6, 424.3], "from": "title-block words (training set)", "text": ["\\^/ARD-BECK", "SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 3–432 mm up",
+  "- **Outlines:** line 298 rings, 4,524 straight (8,176 mm) / 783 curved (1,233 mm); text 510 rings, 3,988 straight (4,720 mm) / 1,108 curved (1,703 mm); tb 4 rings, 31 straight (39.9 mm) / 8 curved (13.6 mm)",
+  "- **Closed boxes:** 5; named: (cH M4e0A/B INPUT ROOM MIC ON CONTROL; 495 CONTROL R00M ONr TOR; MUTE M453A tl",
+  "- **Words (OCR):** 50 in 34 lines: \\^/ARD-BECK · SYSTEMS LTD. · IISTAL LAT ON · M4e0A/B · (cH · 495 · CONTROL · ROOM MIC ON · INPUT · ONr TOR · CONTROL · R00M",
+  "- **Title block:** (20, 401)–(122, 424) mm: \\^/ARD-BECK · SYSTEMS LTD."
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 8,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p8.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "8", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 308.4, 431.8],
+ "outlines": {
+  "line": {"rings": 931, "straight": {"n": 7649, "mm": 10000.9}, "curved": {"n": 2216, "mm": 3267.9}},
+  "text": {"rings": 1264, "straight": {"n": 7933, "mm": 8504.5}, "curved": {"n": 2653, "mm": 3762.3}},
+  "tb": {"rings": 2, "straight": {"n": 25, "mm": 30.7}, "curved": {"n": 11, "mm": 20.4}}
+ },
+ "circles": [{"c": [220.0, 123.4], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [32.2, 405.9, 142.9, 411.4], "text": "\\^/AFID-BECK SYSTEMS LTD."},
+   {"mm": [47.7, 283.5, 123.1, 289.0], "text": "The monitor outprrts,"},
+   {"mm": [126.3, 283.7, 197.5, 289.2], "text": "wh'ich are connected"},
+   {"mm": [198.8, 283.9, 269.4, 289.4], "text": "to external monitcr"},
+   {"mm": [113.6, 273.3, 144.9, 278.8], "text": "'isolation"},
+   {"mm": [48.1, 270.1, 82.9, 275.6], "text": "necessary"},
+   {"mm": [84.2, 270.3, 107.3, 275.8], "text": "ic u:e"},
+   {"mm": [149.6, 270.5, 199.7, 276.0], "text": "transformcrs if"},
+   {"mm": [248.3, 204.0, 283.7, 209.5], "text": "Termjnate"},
+   {"mm": [51.6, 196.9, 70.8, 202.6], "text": "ine or"},
+   {"mm": [48.4, 170.3, 71.7, 175.9], "text": "dance."}
+  ]
+ },
+ "title_block": {"mm": [25.5, 397.2, 126.2, 420.1], "from": "title-block words (training set)", "text": ["\\^/AFID-BECK SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–308 mm across, 0–432 mm up",
+  "- **Outlines:** line 931 rings, 7,649 straight (10,001 mm) / 2,216 curved (3,268 mm); text 1,264 rings, 7,933 straight (8,504 mm) / 2,653 curved (3,762 mm); tb 2 rings, 25 straight (30.7 mm) / 11 curved (20.4 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (220.0, 123.4)",
+  "- **Words (OCR):** 22 in 11 lines: \\^/AFID-BECK SYSTEMS LTD. · The monitor outprrts, · wh'ich are connected · to external monitcr · 'isolation · necessary · ic u:e · transformcrs if · Termjnate · ine or · dance.",
+  "- **Title block:** (26, 397)–(126, 420) mm: \\^/AFID-BECK SYSTEMS LTD."
+ ]
+}

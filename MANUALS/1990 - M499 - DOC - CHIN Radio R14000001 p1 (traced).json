@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 20.7, 331.2, 431.8],
+ "outlines": {
+  "line": {"rings": 53, "straight": {"n": 1081, "mm": 3445.8}, "curved": {"n": 110, "mm": 168.9}},
+  "text": {"rings": 181, "straight": {"n": 1501, "mm": 2056.5}, "curved": {"n": 314, "mm": 510.0}},
+  "tb": {"rings": 7, "straight": {"n": 79, "mm": 95.8}, "curved": {"n": 17, "mm": 26.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [51.0, 389.3, 277.0, 404.9], "text": "\\n/EI-s El41 PRAGFIESS ,AVENUE, SCARBOFIOUGH, ONTARIO M1H 2X4"},
+   {"mm": [117.0, 398.1, 279.4, 406.7], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [117.2, 388.2, 158.5, 392.0], "text": "FAX: 41F /43El-3465"},
+   {"mm": [208.8, 387.3, 279.2, 391.6], "text": "TELEPHONE: 41 6/43El-Ei55O"},
+   {"mm": [153.5, 208.6, 175.3, 214.6], "text": "R1400"},
+   {"mm": [150.1, 181.8, 184.6, 187.8], "text": "PROJECT"},
+   {"mm": [151.6, 168.6, 176.6, 174.6], "text": "900438"}
+  ]
+ },
+ "title_block": {
+  "mm": [110.4, 389.9, 249.9, 415.2],
+  "from": "title-block words (training set)",
+  "text": ["\\n/EI-s El41 PRAGFIESS ,AVENUE, SCARBOFIOUGH, ONTARIO M1H 2X4", "WARD-BECK SYSTEMS LTD.", "FAX: 41F /43El-3465"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 21–432 mm up",
+  "- **Outlines:** line 53 rings, 1,081 straight (3,446 mm) / 110 curved (169 mm); text 181 rings, 1,501 straight (2,056 mm) / 314 curved (510 mm); tb 7 rings, 79 straight (95.8 mm) / 17 curved (26.2 mm)",
+  "- **Words (OCR):** 20 in 7 lines: \\n/EI-s El41 PRAGFIESS ,AVENUE, SCARBOFIOUGH, ONTARIO M1H 2X4 · WARD-BECK SYSTEMS LTD. · FAX: 41F /43El-3465 · TELEPHONE: 41 6/43El-Ei55O · R1400 · PROJECT · 900438",
+  "- **Title block:** (110, 390)–(250, 415) mm: \\n/EI-s El41 PRAGFIESS ,AVENUE, SCARBOFIOUGH, ONTARIO M1H 2X4 · WARD-BECK SYSTEMS LTD. · FAX: 41F /43El-3465"
+ ]
+}

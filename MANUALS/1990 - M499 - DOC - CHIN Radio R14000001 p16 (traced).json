@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 28.8, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 340, "straight": {"n": 3608, "mm": 5572.1}, "curved": {"n": 897, "mm": 1362.8}},
+  "text": {"rings": 735, "straight": {"n": 5331, "mm": 5765.4}, "curved": {"n": 1668, "mm": 2485.6}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [232.7, 343.9, 235.3, 347.4], "w": 2.6, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 58,
+  "lines": [
+   {"mm": [26.8, 410.2, 70.2, 415.7], "text": "WATD-EECK"},
+   {"mm": [81.2, 410.4, 115.3, 415.9], "text": "SYSTEMS"},
+   {"mm": [122.8, 410.6, 138.6, 416.2], "text": "LTD."},
+   {"mm": [134.1, 360.1, 141.2, 365.6], "text": "co"},
+   {"mm": [167.8, 325.1, 188.7, 327.5], "text": "1?..+.:-.'l"},
+   {"mm": [203.8, 325.6, 217.8, 328.0], "text": "L^t^.,6"},
+   {"mm": [230.1, 325.4, 256.5, 328.2], "text": "1^.ot ra-aea"},
+   {"mm": [266.0, 325.4, 274.2, 327.8], "text": "aaai"},
+   {"mm": [266.0, 323.4, 278.1, 326.1], "text": "rrrvJu"},
+   {"mm": [167.3, 315.9, 221.5, 321.9], "text": "of the banciwi ciih"},
+   {"mm": [167.8, 322.1, 191.5, 324.5], "text": "\\lJPl\\-CrllJ"},
+   {"mm": [203.6, 323.2, 262.3, 325.8], "text": "UqIUYY U.J-Uro Clt-ITJJJ"},
+   {"mm": [42.7, 302.3, 84.2, 308.3], "text": "CROSSTALK:"},
+   {"mm": [167.5, 302.3, 190.4, 308.3], "text": "Signai"},
+   {"mm": [193.9, 302.5, 277.9, 308.5], "text": "to crosstalk ratio to be"},
+   {"mm": [167.5, 295.6, 291.0, 302.0], "text": "greater than: 65 dB, 30 Hz to 15kHz."},
+   {"mm": [167.5, 282.4, 200.8, 288.6], "text": "the conso"},
+   {"mm": [213.5, 282.4, 288.2, 288.6], "text": "wi th gna feci to any"},
+   {"mm": [68.9, 228.6, 88.3, 234.6], "text": "OOM:"},
+   {"mm": [43.2, 191.7, 85.3, 197.7], "text": "Input stage:"},
+   {"mm": [167.5, 191.5, 175.7, 197.5], "text": "22"},
+   {"mm": [178.1, 191.9, 189.8, 197.9], "text": "dB."},
+   {"mm": [167.8, 184.8, 176.0, 190.8], "text": "25"},
+   {"mm": [177.5, 185.0, 189.1, 191.0], "text": "dB."},
+   {"mm": [42.7, 178.1, 74.3, 184.1], "text": "Outpurs:"},
+   {"mm": [167.8, 178.1, 176.0, 184.1], "text": "16"},
+   {"mm": [177.5, 178.3, 189.1, 184.3], "text": "dB."},
+   {"mm": [42.7, 161.5, 126.3, 167.5], "text": "POl^lE TQUIREMENTS:"},
+   {"mm": [42.7, 134.5, 95.2, 140.5], "text": "DIMENSIONS:"},
+   {"mm": [167.5, 134.7, 189.1, 140.7], "text": "width:"},
+   {"mm": [167.8, 127.6, 193.0, 133.6], "text": "DePth:"},
+   {"mm": [236.8, 120.9, 252.4, 126.9], "text": "7.00"},
+   {"mm": [256.9, 121.1, 278.1, 127.1], "text": "nches"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 29–432 mm up",
+  "- **Outlines:** line 340 rings, 3,608 straight (5,572 mm) / 897 curved (1,363 mm); text 735 rings, 5,331 straight (5,765 mm) / 1,668 curved (2,486 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 58 in 33 lines: WATD-EECK · SYSTEMS · LTD. · co · 1?..+.:-.'l · L^t^.,6 · 1^.ot ra-aea · aaai · rrrvJu · of the banciwi ciih · \\lJPl\\-CrllJ · UqIUYY U.J-Uro Clt-ITJJJ"
+ ]
+}

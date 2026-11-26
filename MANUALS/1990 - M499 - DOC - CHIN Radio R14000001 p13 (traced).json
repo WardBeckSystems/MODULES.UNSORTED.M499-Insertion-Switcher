@@ -1,0 +1,93 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.9, 7.9, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 253, "straight": {"n": 4246, "mm": 7995.0}, "curved": {"n": 802, "mm": 1270.1}},
+  "text": {"rings": 570, "straight": {"n": 4343, "mm": 4994.4}, "curved": {"n": 1277, "mm": 1925.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [43.2, 279.6, 284.3, 327.1],
+   "w": 241.1,
+   "h": 47.6,
+   "from": "ring",
+   "words": ["SM", "TIMER", "EXT", "UH", "UTT", "RES", "/nc1\\", "iTl", "ET"]
+  },
+  {"mm": [108.0, 202.3, 227.2, 279.6], "w": 119.2, "h": 77.3, "from": "ring", "words": ["RI", "T2", "rosA", "97", "103", "1N4740"]},
+  {"mm": [43.8, 154.3, 285.0, 202.1], "w": 241.2, "h": 47.8, "from": "ring", "words": ["ITC", "CARTR"]}
+ ],
+ "text": {
+  "words": 70,
+  "lines": [
+   {"mm": [24.4, 410.9, 137.3, 416.4], "text": "\\^/ARD-E]ECK SYSTEMS LTD."},
+   {"mm": [141.8, 362.3, 180.5, 367.8], "text": "NSTALLAT ON"},
+   {"mm": [161.9, 318.0, 168.6, 324.3], "text": "SM"},
+   {"mm": [77.7, 288.0, 101.5, 292.1], "text": "UH UTT"},
+   {"mm": [139.3, 287.8, 154.4, 293.8], "text": "EXT"},
+   {"mm": [174.9, 288.0, 201.0, 294.0], "text": "TIMER"},
+   {"mm": [80.1, 282.2, 99.7, 287.2], "text": "/nc1\\"},
+   {"mm": [175.1, 281.1, 195.6, 287.3], "text": "RES ET"},
+   {"mm": [240.9, 283.0, 248.1, 287.1], "text": "iTl"},
+   {"mm": [43.8, 270.5, 70.4, 276.5], "text": "P2- i8"},
+   {"mm": [139.5, 271.0, 147.7, 277.4], "text": "T2"},
+   {"mm": [183.1, 271.0, 191.9, 278.2], "text": "RI"},
+   {"mm": [175.1, 239.2, 226.5, 248.3], "text": "rosA 103"},
+   {"mm": [60.9, 239.4, 74.3, 245.9], "text": "i0i6"},
+   {"mm": [93.7, 239.4, 105.6, 245.9], "text": "r02"},
+   {"mm": [135.8, 239.9, 143.6, 245.4], "text": "97"},
+   {"mm": [253.7, 239.9, 266.0, 245.4], "text": "104"},
+   {"mm": [75.6, 232.3, 88.1, 237.3], "text": "1nn"},
+   {"mm": [157.2, 227.8, 182.7, 233.8], "text": "1N4740"},
+   {"mm": [71.9, 222.6, 94.6, 228.6], "text": "iohms"},
+   {"mm": [230.8, 223.7, 260.2, 229.7], "text": "1N4003"},
+   {"mm": [71.9, 216.5, 85.5, 221.6], "text": ">%l,i"},
+   {"mm": [43.8, 203.2, 56.3, 209.2], "text": "J1-"},
+   {"mm": [84.2, 173.2, 127.4, 179.1], "text": "ITC CARTR"},
+   {"mm": [44.0, 132.3, 75.8, 138.3], "text": "cartridge"},
+   {"mm": [77.1, 132.6, 92.2, 138.6], "text": "tape"},
+   {"mm": [93.9, 132.8, 135.2, 138.8], "text": "reproducer."},
+   {"mm": [137.5, 132.8, 189.6, 139.0], "text": "In the example"},
+   {"mm": [107.3, 126.1, 136.7, 132.1], "text": "OF mp"},
+   {"mm": [137.1, 126.1, 170.6, 132.3], "text": "DSl of the"},
+   {"mm": [69.7, 125.7, 77.7, 131.7], "text": "he"},
+   {"mm": [76.6, 98.9, 86.4, 104.9], "text": "me"},
+   {"mm": [90.7, 99.1, 99.5, 105.1], "text": "fro"},
+   {"mm": [122.6, 99.1, 175.1, 105.1], "text": "ve rtent exter nal"},
+   {"mm": [44.0, 92.2, 90.7, 98.2], "text": "short ci rcu'it."},
+   {"mm": [97.6, 57.4, 107.3, 63.4], "text": "ma"},
+   {"mm": [121.1, 57.4, 178.8, 63.4], "text": "re 'ir ed on some"},
+   {"mm": [81.2, 50.3, 88.7, 56.3], "text": "so"},
+   {"mm": [95.6, 50.5, 155.7, 56.5], "text": "te co tro vo tage"},
+   {"mm": [157.6, 50.7, 188.9, 56.7], "text": "di ffer enti"},
+   {"mm": [190.6, 51.0, 196.5, 56.9], "text": "al"},
+   {"mm": [270.3, 33.9, 294.9, 40.4], "text": "FIG.3"}
+  ]
+ },
+ "dots": [{"c": [207.9, 321.1], "r": 0.9, "lines": 0}, {"c": [147.5, 243.4], "r": 1.4, "lines": 0}, {"c": [71.9, 242.7], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–334 mm across, 8–432 mm up",
+  "- **Outlines:** line 253 rings, 4,246 straight (7,995 mm) / 802 curved (1,270 mm); text 570 rings, 4,343 straight (4,994 mm) / 1,277 curved (1,925 mm)",
+  "- **Closed boxes:** 3; named: SM TIMER EXT UH UTT RES /nc1\\ iTl ET; RI T2 rosA 97 103 1N4740; ITC CARTR",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 70 in 42 lines: \\^/ARD-E]ECK SYSTEMS LTD. · NSTALLAT ON · SM · UH UTT · EXT · TIMER · /nc1\\ · RES ET · iTl · P2- i8 · T2 · RI"
+ ]
+}

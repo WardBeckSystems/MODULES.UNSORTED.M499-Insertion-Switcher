@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.3, 24.6, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 37, "straight": {"n": 1231, "mm": 3042.0}, "curved": {"n": 133, "mm": 212.6}},
+  "text": {"rings": 179, "straight": {"n": 1529, "mm": 2012.4}, "curved": {"n": 353, "mm": 558.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [117.7, 400.7, 277.2, 408.6], "text": "WAFID-EIECK SYSTEMS LTD."},
+   {"mm": [50.3, 390.3, 267.3, 406.8], "text": "\\n/E= 441 PF?OGRESS AVENUE, SC;AFTEIOFIOUGH, 416r438-655C"},
+   {"mm": [251.7, 395.7, 271.4, 400.6], "text": "|./'lP' ?X4"},
+   {"mm": [226.5, 395.7, 246.3, 399.3], "text": "ONfIAFfIO"},
+   {"mm": [117.4, 390.1, 161.5, 394.4], "text": "TELEX O55-25399"},
+   {"mm": [202.7, 390.3, 231.7, 393.9], "text": "TELEPHONE:"},
+   {"mm": [150.7, 229.1, 195.4, 235.1], "text": "Ri400/R2200"},
+   {"mm": [145.7, 215.7, 206.2, 221.7], "text": "RADIO CONSOLES"},
+   {"mm": [137.7, 202.3, 207.0, 208.5], "text": "INSTALLATION MANUAL"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 9–334 mm across, 25–432 mm up",
+  "- **Outlines:** line 37 rings, 1,231 straight (3,042 mm) / 133 curved (213 mm); text 179 rings, 1,529 straight (2,012 mm) / 353 curved (558 mm)",
+  "- **Words (OCR):** 20 in 9 lines: WAFID-EIECK SYSTEMS LTD. · \\n/E= 441 PF?OGRESS AVENUE, SC;AFTEIOFIOUGH, 416r438-655C · |./'lP' ?X4 · ONfIAFfIO · TELEX O55-25399 · TELEPHONE: · Ri400/R2200 · RADIO CONSOLES · INSTALLATION MANUAL"
+ ]
+}

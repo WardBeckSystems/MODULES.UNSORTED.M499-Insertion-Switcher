@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, 14.9, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 738, "straight": {"n": 6421, "mm": 8899.4}, "curved": {"n": 1899, "mm": 2838.9}},
+  "text": {"rings": 1144, "straight": {"n": 7729, "mm": 8566.9}, "curved": {"n": 2631, "mm": 3895.3}},
+  "tb": {"rings": 89, "straight": {"n": 693, "mm": 807.8}, "curved": {"n": 227, "mm": 346.3}}
+ },
+ "circles": [
+  {"c": [164.2, 60.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [197.5, 146.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [34.8, 406.1, 78.8, 411.6], "text": "WARD-BECK"},
+   {"mm": [89.0, 406.1, 146.2, 411.6], "text": "SYSTEMS LTD."},
+   {"mm": [151.3, 355.6, 190.0, 361.5], "text": "NSTALLAT ON"},
+   {"mm": [50.1, 273.5, 84.8, 279.1], "text": "inspect al"},
+   {"mm": [174.2, 272.9, 200.1, 278.4], "text": "oose 0r"},
+   {"mm": [259.5, 272.7, 269.7, 278.2], "text": "ng."},
+   {"mm": [49.9, 250.2, 55.9, 255.7], "text": "'it"},
+   {"mm": [59.4, 247.4, 95.6, 252.9], "text": "downward."},
+   {"mm": [48.4, 49.7, 285.2, 56.9], "text": "existing equipment racks which are connected to the main system"}
+  ]
+ },
+ "title_block": {
+  "mm": [28.0, 238.7, 129.8, 420.4],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK", "SYSTEMS LTD.", "inspect al", "'it", "downward."]
+ },
+ "dots": [{"c": [86.2, 193.1], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–334 mm across, 15–432 mm up",
+  "- **Outlines:** line 738 rings, 6,421 straight (8,899 mm) / 1,899 curved (2,839 mm); text 1,144 rings, 7,729 straight (8,567 mm) / 2,631 curved (3,895 mm); tb 89 rings, 693 straight (808 mm) / 227 curved (346 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.6 @ (164.2, 60.0), r 1.6 @ (197.5, 146.0)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 9 lines: WARD-BECK · SYSTEMS LTD. · NSTALLAT ON · inspect al · oose 0r · ng. · 'it · downward. · existing equipment racks which are connected to the main system",
+  "- **Title block:** (28, 239)–(130, 420) mm: WARD-BECK · SYSTEMS LTD. · inspect al · 'it · downward."
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 21.3, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 1492, "mm": 3503.2}, "curved": {"n": 222, "mm": 351.5}},
+  "text": {"rings": 426, "straight": {"n": 3292, "mm": 4019.7}, "curved": {"n": 927, "mm": 1404.9}},
+  "tb": {"rings": 2, "straight": {"n": 32, "mm": 42.6}, "curved": {"n": 10, "mm": 15.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [29.8, 400.5, 142.5, 406.9], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [137.7, 347.4, 207.5, 353.6], "text": "14OO RADIO CONSOLE"},
+   {"mm": [78.4, 334.2, 206.2, 340.4], "text": "LIST OF SEPAMTELY SUPPLiED STANDARD"},
+   {"mm": [199.5, 334.0, 231.9, 340.0], "text": "PRODUCT"},
+   {"mm": [225.4, 333.8, 257.1, 339.8], "text": "MANUALS"},
+   {"mm": [89.4, 294.7, 99.1, 300.7], "text": "M4"},
+   {"mm": [136.7, 294.3, 182.0, 300.5], "text": "al kback odul"},
+   {"mm": [89.4, 281.3, 99.1, 287.3], "text": "M4"},
+   {"mm": [137.5, 281.1, 155.4, 287.1], "text": "ue Am"},
+   {"mm": [168.2, 280.9, 198.4, 287.1], "text": "er odul"},
+   {"mm": [89.6, 268.1, 115.5, 274.1], "text": "14462A"},
+   {"mm": [137.1, 267.7, 189.3, 273.9], "text": "quai izer odule"},
+   {"mm": [89.4, 255.0, 112.5, 261.0], "text": "M4908"},
+   {"mm": [131.9, 254.5, 190.2, 260.8], "text": "Mic input Module"},
+   {"mm": [89.4, 241.8, 112.3, 247.8], "text": "l,tl47g"},
+   {"mm": [131.7, 241.4, 190.6, 247.4], "text": "AuxiliaryModule"},
+   {"mm": [89.2, 228.2, 108.0, 234.2], "text": "M495"},
+   {"mm": [89.4, 215.0, 110.3, 221.0], "text": "14497"},
+   {"mm": [131.7, 214.6, 179.2, 220.8], "text": "Master Module"},
+   {"mm": [89.4, 201.7, 109.0, 207.6], "text": "t'1497"},
+   {"mm": [131.7, 201.2, 174.0, 207.4], "text": "Master Modul"},
+   {"mm": [89.0, 188.3, 108.4, 194.3], "text": "M49B"},
+   {"mm": [63.3, 174.9, 74.3, 180.9], "text": "10)"},
+   {"mm": [89.0, 174.9, 112.9, 180.9], "text": "M625B"},
+   {"mm": [63.3, 161.7, 74.1, 167.7], "text": "11)"},
+   {"mm": [111.0, 161.5, 121.8, 167.5], "text": "MR"},
+   {"mm": [139.3, 161.1, 209.2, 167.3], "text": "ock and Timer System"}
+  ]
+ },
+ "title_block": {"mm": [23.0, 392.0, 125.5, 415.6], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 21–432 mm up",
+  "- **Outlines:** line 76 rings, 1,492 straight (3,503 mm) / 222 curved (352 mm); text 426 rings, 3,292 straight (4,020 mm) / 927 curved (1,405 mm); tb 2 rings, 32 straight (42.6 mm) / 10 curved (15.7 mm)",
+  "- **Words (OCR):** 48 in 27 lines: WARD-BECK SYSTEMS LTD. · 14OO RADIO CONSOLE · LIST OF SEPAMTELY SUPPLiED STANDARD · PRODUCT · MANUALS · M4 · al kback odul · M4 · ue Am · er odul · 14462A · quai izer odule",
+  "- **Title block:** (23, 392)–(126, 416) mm: WARD-BECK SYSTEMS LTD."
+ ]
+}

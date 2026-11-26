@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 14.7, 310.5, 431.8],
+ "outlines": {
+  "line": {"rings": 918, "straight": {"n": 7396, "mm": 9912.4}, "curved": {"n": 2290, "mm": 3461.2}},
+  "text": {"rings": 1289, "straight": {"n": 8998, "mm": 9983.4}, "curved": {"n": 2863, "mm": 4190.5}}
+ },
+ "circles": [{"c": [89.1, 134.8], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [31.1, 406.1, 73.6, 411.6], "text": "WARD.BECK"},
+   {"mm": [85.1, 405.9, 142.1, 411.6], "text": "SYEiTEMS LTD."},
+   {"mm": [145.3, 357.3, 195.2, 362.8], "text": "INSTALLATION"},
+   {"mm": [122.0, 343.7, 223.0, 350.1], "text": "R14OO/RZ 2O DIO CONSOLES"},
+   {"mm": [46.4, 281.5, 251.3, 287.5], "text": "theaudjosystemgr\"ound.Thist.:irejsnotclffiac"},
+   {"mm": [244.2, 260.6, 269.0, 267.2], "text": "ment of"},
+   {"mm": [234.3, 204.5, 240.3, 210.5], "text": "in"},
+   {"mm": [253.0, 203.8, 277.0, 211.5], "text": "jn the"},
+   {"mm": [214.0, 137.3, 240.1, 143.3], "text": "ptimum"},
+   {"mm": [235.8, 137.7, 284.3, 143.7], "text": "performance."},
+   {"mm": [45.3, 59.4, 62.8, 64.9], "text": "runs."}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 15–432 mm up",
+  "- **Outlines:** line 918 rings, 7,396 straight (9,912 mm) / 2,290 curved (3,461 mm); text 1,289 rings, 8,998 straight (9,983 mm) / 2,863 curved (4,190 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (89.1, 134.8)",
+  "- **Words (OCR):** 17 in 11 lines: WARD.BECK · SYEiTEMS LTD. · INSTALLATION · R14OO/RZ 2O DIO CONSOLES · theaudjosystemgr\"ound.Thist.:irejsnotclffiac · ment of · in · jn the · ptimum · performance. · runs."
+ ]
+}

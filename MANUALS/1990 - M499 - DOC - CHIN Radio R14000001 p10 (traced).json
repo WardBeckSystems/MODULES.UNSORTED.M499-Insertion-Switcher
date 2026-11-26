@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.9, 14.7, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 757, "straight": {"n": 6674, "mm": 8838.2}, "curved": {"n": 1859, "mm": 2816.5}},
+  "text": {"rings": 1257, "straight": {"n": 8784, "mm": 9738.1}, "curved": {"n": 2798, "mm": 4134.6}},
+  "tb": {"rings": 2, "straight": {"n": 25, "mm": 31.9}, "curved": {"n": 12, "mm": 20.6}}
+ },
+ "circles": [{"c": [195.7, 84.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [29.4, 406.3, 73.6, 411.8], "text": "WAF|D.BECK"},
+   {"mm": [83.3, 406.3, 140.1, 412.1], "text": "SYSTEMS LTD."},
+   {"mm": [147.9, 357.3, 189.3, 363.0], "text": "INSTALLAT ON"},
+   {"mm": [124.8, 343.9, 164.9, 350.4], "text": "RI OO /R22OO"},
+   {"mm": [163.4, 344.1, 219.8, 350.1], "text": "AUDIO CONSOLES"},
+   {"mm": [57.4, 271.6, 94.3, 277.6], "text": "depressed"},
+   {"mm": [74.7, 258.4, 91.3, 264.4], "text": "MON"},
+   {"mm": [251.3, 243.1, 278.3, 248.6], "text": "jsolated"},
+   {"mm": [57.9, 241.8, 106.7, 247.3], "text": "In conjunctjon"},
+   {"mm": [109.7, 241.6, 246.1, 247.5], "text": "w'ith the CHANNE switch SW9, diode"},
+   {"mm": [165.6, 241.4, 174.2, 246.9], "text": "0N"},
+   {"mm": [44.5, 181.8, 91.8, 187.8], "text": "respectively."},
+   {"mm": [134.1, 155.2, 144.4, 161.2], "text": "lay"},
+   {"mm": [146.2, 155.7, 163.4, 161.7], "text": "(Fig."},
+   {"mm": [243.1, 121.1, 281.3, 127.1], "text": "ith certa'in"},
+   {"mm": [43.4, 62.2, 67.6, 68.2], "text": "ments."}
+  ]
+ },
+ "title_block": {"mm": [22.8, 397.7, 123.3, 420.7], "from": "title-block words (training set)", "text": ["WAF|D.BECK", "SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–334 mm across, 15–432 mm up",
+  "- **Outlines:** line 757 rings, 6,674 straight (8,838 mm) / 1,859 curved (2,816 mm); text 1,257 rings, 8,784 straight (9,738 mm) / 2,798 curved (4,135 mm); tb 2 rings, 25 straight (31.9 mm) / 12 curved (20.6 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (195.7, 84.6)",
+  "- **Words (OCR):** 28 in 16 lines: WAF|D.BECK · SYSTEMS LTD. · INSTALLAT ON · RI OO /R22OO · AUDIO CONSOLES · depressed · MON · jsolated · In conjunctjon · w'ith the CHANNE switch SW9, diode · 0N · respectively.",
+  "- **Title block:** (23, 398)–(123, 421) mm: WAF|D.BECK · SYSTEMS LTD."
+ ]
+}

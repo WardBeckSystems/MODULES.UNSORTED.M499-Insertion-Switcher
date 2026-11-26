@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/UNSORTED/M499/MANUALS/1990 - M499 - DOC - CHIN Radio R14000001.pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/1f59e5b11f06fbe6-p26.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 21.8, 331.0, 431.8],
+ "outlines": {
+  "line": {"rings": 90, "straight": {"n": 1659, "mm": 3979.0}, "curved": {"n": 278, "mm": 414.0}},
+  "text": {"rings": 379, "straight": {"n": 3046, "mm": 3647.9}, "curved": {"n": 827, "mm": 1242.3}},
+  "tb": {"rings": 2, "straight": {"n": 34, "mm": 46.5}, "curved": {"n": 10, "mm": 12.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [29.1, 400.9, 141.6, 407.1], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [139.9, 348.5, 207.7, 354.7], "text": "4OO RADIO CONSOLE"},
+   {"mm": [137.7, 335.1, 202.3, 341.5], "text": "PLACEABLE LIST"},
+   {"mm": [166.9, 335.1, 191.3, 341.1], "text": "PARTS"},
+   {"mm": [40.4, 309.2, 67.6, 315.2], "text": "SYMBOL"},
+   {"mm": [102.6, 309.2, 151.1, 314.7], "text": "DESCRiPTION"},
+   {"mm": [194.3, 308.5, 210.1, 314.5], "text": "MFG"},
+   {"mm": [240.5, 308.1, 283.0, 314.5], "text": "PART NUMBE"},
+   {"mm": [40.4, 296.0, 64.3, 302.0], "text": "TB1O3"},
+   {"mm": [194.5, 294.9, 274.8, 301.1], "text": "Cinch-Jones Z-S4Z-ZU"},
+   {"mm": [194.5, 281.5, 277.2, 288.0], "text": "Cinch-Jones MSX-2S42"},
+   {"mm": [40.4, 269.2, 64.3, 275.2], "text": "TB1O4"},
+   {"mm": [194.5, 268.4, 282.6, 274.6], "text": "Cjnch-Jones S-140-3/4W"},
+   {"mm": [194.5, 242.0, 275.5, 248.2], "text": "Cinch-Jones MS5-140y"},
+   {"mm": [40.2, 229.5, 64.6, 235.5], "text": "EX EN"},
+   {"mm": [107.5, 229.5, 117.4, 235.5], "text": "xte"},
+   {"mm": [131.7, 229.1, 156.3, 235.1], "text": "Module"},
+   {"mm": [194.3, 228.9, 209.4, 234.9], "text": "l.lBS"},
+   {"mm": [240.3, 228.4, 258.2, 234.4], "text": "E46O"},
+   {"mm": [137.7, 215.7, 157.0, 221.7], "text": "odule"},
+   {"mm": [194.3, 215.5, 212.9, 221.5], "text": "[^JBS"},
+   {"mm": [240.1, 215.0, 256.5, 221.0], "text": "E461"}
+  ]
+ },
+ "title_block": {"mm": [22.4, 392.4, 124.8, 415.8], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 22–432 mm up",
+  "- **Outlines:** line 90 rings, 1,659 straight (3,979 mm) / 278 curved (414 mm); text 379 rings, 3,046 straight (3,648 mm) / 827 curved (1,242 mm); tb 2 rings, 34 straight (46.5 mm) / 10 curved (12.4 mm)",
+  "- **Words (OCR):** 33 in 22 lines: WARD-BECK SYSTEMS LTD. · 4OO RADIO CONSOLE · PLACEABLE LIST · PARTS · SYMBOL · DESCRiPTION · MFG · PART NUMBE · TB1O3 · Cinch-Jones Z-S4Z-ZU · Cinch-Jones MSX-2S42 · TB1O4",
+  "- **Title block:** (22, 392)–(125, 416) mm: WARD-BECK SYSTEMS LTD."
+ ]
+}
