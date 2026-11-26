@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (351, 22)–(431, 38) mm: WBS WARD-BECK SYSTEMS · M499
 - **Wiring (first pass):** 95 connected wire groups from 918 runs; labelled ends: 154 mm → INPUTS; 152 mm → outputs; 152 mm → outputs; 96 mm → WBS, INSERTION SWITCHER MODULE, SCHEMATIC; 20 mm → INPUTS
 
-Every curve, box, word and wire group: [19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT (traced).json](../SCHEMATICS/19xx%20-%20M499%20-%20DOC%20-%20499-02-001%20-%20PROCESSOR%20INPUT%20FROM%20PROCESSOR%20OLTPUT%20(traced).json) (the CAD file: `19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT (traced).json](../SCHEMATICS/19xx%20-%20M499%20-%20DOC%20-%20499-02-001%20-%20PROCESSOR%20INPUT%20FROM%20PROCESSOR%20OLTPUT%20%28traced%29.json) (the CAD file: `19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT (traced).dxf`).
 
 ## Full text
 
