@@ -1,16 +1,16 @@
-# M499 · Unsorted
+# M499 Insertion Switcher · Unsorted
 
 Ward-Beck Systems M499, 1990|23. Wiki page: [M499 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M499.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 6 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 61 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 91 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 9 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -34,7 +34,7 @@ Shared privately on Google Drive (opens after sign-in): [1990|23 · wbsps - modu
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo" width="240" alt="1992 - M499 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.jpg"></a><br><sub>1992|25 · DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1l19S2lDySwNe48AjhTyJZtAALLKDo6Iu/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1l19S2lDySwNe48AjhTyJZtAALLKDo6Iu" width="240" alt="19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT.jpg"></a><br><sub>19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo" width="240" alt="1992 - M499 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.jpg"></a><br><sub>1992|25 · DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE · <a href="SCHEMATICS/1992%20-%20M499%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1l19S2lDySwNe48AjhTyJZtAALLKDo6Iu/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1l19S2lDySwNe48AjhTyJZtAALLKDo6Iu" width="240" alt="19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT.jpg"></a><br><sub>19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT · <a href="SCHEMATICS/19xx%20-%20M499%20-%20DOC%20-%20499-02-001%20-%20PROCESSOR%20INPUT%20FROM%20PROCESSOR%20OLTPUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Manuals and documents
@@ -51,7 +51,14 @@ Shared privately on Google Drive (opens after sign-in): [1990|23 · DOC - CHIN R
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
+- [1992 - M499 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.kicad_sch](KICAD/1992%20-%20M499%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE.kicad_sch)
+- [19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT.kicad_sch](KICAD/19xx%20-%20M499%20-%20DOC%20-%20499-02-001%20-%20PROCESSOR%20INPUT%20FROM%20PROCESSOR%20OLTPUT.kicad_sch)
 - [M499.kicad_sym](KICAD/M499.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
