@@ -15,7 +15,7 @@ Wiki page: [M499](../../../../PAGES/M499.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M499/PHOTOS/1990 - M499 - wbsps - module - m499_small.jpg",
+ "file": "Modules/ROUTING/M499/PHOTOS/1990 - M499 - wbsps - module - m499_small.jpg",
  "sha256": "024a188a68a4c5d943b139bc56831a19c76ebe37fd38f7e203ac544b2d786c4a",
  "kind": "module",
  "models": [

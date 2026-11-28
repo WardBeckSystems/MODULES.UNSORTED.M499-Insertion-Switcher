@@ -24,7 +24,7 @@ Wiki page: [M499](../../../../PAGES/M499.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M499/PHOTOS/1990 - M499 - 12x1 Stereo Switching Module.jpg",
+ "file": "Modules/ROUTING/M499/PHOTOS/1990 - M499 - 12x1 Stereo Switching Module.jpg",
  "sha256": "b353f3a056bd808bba635d53d115ea2600a675009733ecc8545ff23ec32ffa47",
  "kind": "module",
  "models": [
