@@ -1,5 +1,5 @@
 # 1990 - M499 - wbsps - module - m499 12x1 stereo switching module_small.jpg
-Wiki page: [M499](../../../../PAGES/M499.md)
+Wiki page: [M499](../)
 
 
 - **Year:** 1990 (module estimate (used in job))
