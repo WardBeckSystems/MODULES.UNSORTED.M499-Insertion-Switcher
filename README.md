@@ -1,16 +1,15 @@
-# M499 Insertion Switcher · Unsorted
+# M499 Insertion Switcher · Routing
 
 Ward-Beck Systems M499, 1990|23. Wiki page: [M499 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M499.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 91 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 90 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 9 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -54,7 +53,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1992 - M499 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.kicad_sch](KICAD/1992%20-%20M499%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE.kicad_sch)
 - [19xx - M499 - DOC - 499-02-001 - PROCESSOR INPUT FROM PROCESSOR OLTPUT.kicad_sch](KICAD/19xx%20-%20M499%20-%20DOC%20-%20499-02-001%20-%20PROCESSOR%20INPUT%20FROM%20PROCESSOR%20OLTPUT.kicad_sch)
 - [M499.kicad_sym](KICAD/M499.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
